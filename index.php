@@ -15,7 +15,7 @@
     <meta property='og:title' content='สล็อตออนไลน์ ให้บริการทุกรูปแบบอย่างสม่ำเสมอ FAFA855 อิสระในการเล่น ต้องที่นี่ที่เดียว' />
     <meta property='og:description' content='สล็อตออนไลน์  มือใหม่สร้างรายได้ไม่ยากด้วยส่งตรงจาก  FAFA855 พร้อมมอบรายได้หลายเท่าตัว' />
     <meta property='og:site_name' content='FAFA855' />
-    <meta name="google-site-verification" content="7cAHX4n43IM8KVvUPEPqUA3YZwnzpqR4yskNtlznFVU" />
+    <meta name="google-site-verification" content="mK2B65kWrScr6ibthM9tb59NrUfJSRUMz1SV-H5ZOwQ" />
     <meta name='page-locale' content='th'>
     <meta name='googlebot' content='index,follow'>
     <meta content='thailand' name='language'>
